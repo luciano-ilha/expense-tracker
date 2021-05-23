@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/GitHub-Pull%20Requests-informational?style=for-the-badge" alt="Pull requests icon">
  </a>
  <a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
-  <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Linkedin icon">
+  <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B65C2" alt="Linkedin icon">
  </a>
 </div>
 
@@ -149,7 +149,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 <a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
- <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Linkedin icon">
+ <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B65C2" alt="Linkedin icon">
 </a>
 <br><br>
 
