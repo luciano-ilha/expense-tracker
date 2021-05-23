@@ -151,9 +151,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
  <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B65C2" alt="Linkedin icon">
 </a>
-<br><br>
-
-* ilha.dev.br@gmail.com
+<br>
+<a href="mailto:ilha.dev.br@gmail.com">
+ <img src="https://img.shields.io/badge/Send-Email-ffe019?style=for-the-badge&logo=Gmail" alt="Issues icon">
+</a>
 
 Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.com/luciano-ilha/expense-tracker)
 
