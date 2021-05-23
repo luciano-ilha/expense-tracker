@@ -76,11 +76,21 @@ An app to track all your expenses.<br>
 
 ### Built With
 
-* [React](https://reactjs.org/)
-* [JavaScript](https://www.javascript.com/)
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
+<a href="https://reactjs.org/">
+ <img src="https://img.shields.io/badge/Built%20With-React-61dafb?style=for-the-badge&logo=React" alt="Issues icon">
+</a>
+<br>
+<a href="https://www.javascript.com/">
+ <img src="https://img.shields.io/badge/Built%20With-JavaScript-f7df1c?style=for-the-badge&logo=Javascript" alt="Issues icon">
+</a>
+<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+ <img src="https://img.shields.io/badge/Built%20With-HTML-e34f26?style=for-the-badge&logo=HTML5" alt="Issues icon">
+</a>
+<br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+ <img src="https://img.shields.io/badge/Built%20With-CSS-1471b6?style=for-the-badge&logo=CSS3" alt="Issues icon">
+</a>
 
 
 <!-- GETTING STARTED -->
