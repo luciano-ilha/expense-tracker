@@ -1,5 +1,4 @@
-[![See live][seelive-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+[![See Live][seelive-shield]][seelive-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
@@ -158,7 +157,7 @@ Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.c
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[seelive-shield]: https://img.shields.io/badge/See-live-brightgreen
+[seelive-shield]: https://img.shields.io/badge/See-live-brightgreen?style=for-the-badge
 [seelive-url]: https://www.linkedin.com/in/luciano-carbonell/?locale=en_US
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo/network/members
