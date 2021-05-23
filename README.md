@@ -40,7 +40,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <summary><h2 style="display: inline-block">🗒️ Table of Contents</h2></summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -65,16 +65,15 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 🔎 About The Project
 
 [![Expense Tracker Screen Shot][product-screenshot]]()
 
 An app to track all your expenses.<br>
 
 
-### Built With
+### 💻 Built With
 
 <a href="https://reactjs.org/">
  <img src="https://img.shields.io/badge/Built%20With-React-61dafb?style=for-the-badge&logo=React" alt="Issues icon">
@@ -94,9 +93,10 @@ An app to track all your expenses.<br>
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## ⚙️ Getting Started
 
 To get a local copy up and running follow these simple steps.
+
 
 ### Prerequisites
 
@@ -105,6 +105,7 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install npm@latest -g
   ```
+
 
 ### Installation
 
@@ -118,7 +119,6 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -127,16 +127,14 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation]()_
 
 
-
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/luciano-ilha/expense-tracker/issues) for a list of proposed features (and known issues).
 
 
-
 <!-- CONTRIBUTING -->
-## Contributing
+## ✍🏼 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -156,7 +154,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## 📱 Contact
 
 <a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
  <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B65C2" alt="Linkedin icon">
@@ -171,7 +169,7 @@ Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.c
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## 💡 Acknowledgements
 
 * []()
 * []()
