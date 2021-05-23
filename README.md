@@ -156,7 +156,7 @@ Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [seelive-shield]: https://img.shields.io/badge/See-live-brightgreen?style=for-the-badge
-[seelive-url]:
+[seelive-url]: https://github.com/luciano-ilha/expense-tracker
 [issues-shield]: https://img.shields.io/badge/GitHub-Issues-important?style=for-the-badge
 [issues-url]: https://github.com/luciano-ilha/expense-tracker/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
