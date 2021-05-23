@@ -1,11 +1,10 @@
-<div align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/See-live-brightgreen" alt="see live icon">
-  </a>
-  <a href="https://github.com/luciano-ilha/expense-tracker/issues">
-    <img src="https://img.shields.io/badge/GitHub-Issues-red" alt="issues icon">
-  </a>
- </div>
+[![See live][seelive-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+ 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -158,13 +157,9 @@ Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.c
 * []()
 
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
+[seelive-shield]: https://img.shields.io/badge/See-live-brightgreen
+[seelive-url]: https://www.linkedin.com/in/luciano-carbonell/?locale=en_US
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
