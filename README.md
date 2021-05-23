@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="./src/images/LDGscshot.jpeg" alt="Screenshot">
+    <img src="./src/images/LDGscshot.jpeg" alt="Screenshot" height="250" width="350">
   </a>
 
   <h1 align="center">Expense Tracker</h1>
