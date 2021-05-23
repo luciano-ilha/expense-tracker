@@ -1,7 +1,15 @@
-[![See Live][seelive-shield]][seelive-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
- 
+<div align="center">
+ <a href="https://github.com/luciano-ilha/expense-tracker">
+  <img src="https://img.shields.io/badge/See-live-brightgreen?style=for-the-badge" alt="See live icon">
+ </a>
+ <a href="https://github.com/luciano-ilha/expense-tracker/issues">
+  <img src="https://img.shields.io/badge/GitHub-Issues-important?style=for-the-badge" alt="Issues icon">
+ </a>
+ <a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
+  <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Linkedin icon">
+ </a>
+</div>
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -152,12 +160,3 @@ Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.c
 * []()
 * []()
 * []()
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[seelive-shield]: https://img.shields.io/badge/See-live-brightgreen?style=for-the-badge
-[seelive-url]: https://github.com/luciano-ilha/expense-tracker
-[issues-shield]: https://img.shields.io/badge/GitHub-Issues-important?style=for-the-badge
-[issues-url]: https://github.com/luciano-ilha/expense-tracker/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/luciano-carbonell/?locale=en_US
