@@ -72,8 +72,6 @@
 [![Expense Tracker Screen Shot][product-screenshot]]()
 
 An app to track all your expenses.<br>
-**For bold texts**<br>
-`for commands`
 
 
 ### Built With
@@ -150,7 +148,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-* [LinkedIn](https://twitter.com/CarbonellIlha)
+<a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
+ <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="Linkedin icon">
+</a>
+<br><br>
+
 * ilha.dev.br@gmail.com
 
 Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.com/luciano-ilha/expense-tracker)
