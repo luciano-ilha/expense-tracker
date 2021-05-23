@@ -5,7 +5,7 @@
  <a href="https://github.com/luciano-ilha/expense-tracker/issues">
   <img src="https://img.shields.io/badge/GitHub-Issues-important?style=for-the-badge" alt="Issues icon">
  </a>
- <a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
+ <a href="https://github.com/luciano-ilha/expense-tracker/pulls">
   <img src="https://img.shields.io/badge/GitHub-Pull%20Requests-informational?style=for-the-badge" alt="Pull requests icon">
  </a>
  <a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
