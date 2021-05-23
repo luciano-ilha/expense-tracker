@@ -1,11 +1,11 @@
-[![Contributors][contributors-shield]]()
-[![Forks][forks-shield]](https://github.com/luciano-ilha/expense-tracker/network/members)
-[![Stargazers][stars-shield]](https://github.com/luciano-ilha/expense-tracker/stargazers)
-[![Issues][issues-shield]](https://github.com/luciano-ilha/expense-tracker/issues)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/luciano-carbonell/)
-
-
-
+<div align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/See-live-brightgreen" alt="see live icon">
+  </a>
+  <a href="https://github.com/luciano-ilha/expense-tracker/issues">
+    <img src="https://img.shields.io/badge/GitHub-Issues-red" alt="issues icon">
+  </a>
+ </div>
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
