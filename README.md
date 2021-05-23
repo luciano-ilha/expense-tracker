@@ -1,9 +1,8 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]]()
+[![Forks][forks-shield]](https://github.com/luciano-ilha/expense-tracker/network/members)
+[![Stargazers][stars-shield]](https://github.com/luciano-ilha/expense-tracker/stargazers)
+[![Issues][issues-shield]](https://github.com/luciano-ilha/expense-tracker/issues)
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/luciano-carbonell/)
 
 
 
