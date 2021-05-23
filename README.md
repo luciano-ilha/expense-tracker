@@ -3,10 +3,10 @@
   <img src="https://img.shields.io/badge/See-live-brightgreen?style=for-the-badge" alt="See live icon">
  </a>
  <a href="https://github.com/luciano-ilha/expense-tracker/issues">
-  <img src="https://img.shields.io/badge/GitHub-Issues-important?style=for-the-badge" alt="Issues icon">
+  <img src="https://img.shields.io/badge/GitHub-Issues-important?style=for-the-badge&logo=GitHub" alt="Issues icon">
  </a>
  <a href="https://github.com/luciano-ilha/expense-tracker/pulls">
-  <img src="https://img.shields.io/badge/GitHub-Pull%20Requests-informational?style=for-the-badge" alt="Pull requests icon">
+  <img src="https://img.shields.io/badge/GitHub-Pull%20Requests-informational?style=for-the-badge&logo=GitHub" alt="Pull requests icon">
  </a>
  <a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
   <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B65C2" alt="Linkedin icon">
