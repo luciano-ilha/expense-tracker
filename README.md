@@ -13,6 +13,7 @@
  </a>
 </div>
 
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -74,19 +75,19 @@ An app to track all your expenses.
 ### 💻 Built With
 
 <a href="https://reactjs.org/">
- <img src="https://img.shields.io/badge/Built%20With-React-61dafb?style=for-the-badge&logo=React" alt="Issues icon">
+ <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=React&logoColor=000000" alt="React icon">
 </a>
 <br>
 <a href="https://www.javascript.com/">
- <img src="https://img.shields.io/badge/Built%20With-JavaScript-f7df1c?style=for-the-badge&logo=Javascript" alt="Issues icon">
+ <img src="https://img.shields.io/badge/-JavaScript-f7df1c?style=for-the-badge&logo=Javascript&logoColor=000000" alt="Javascript icon">
 </a>
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
- <img src="https://img.shields.io/badge/Built%20With-HTML-e34f26?style=for-the-badge&logo=HTML5" alt="Issues icon">
+ <img src="https://img.shields.io/badge/-HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=ffffff" alt="Html icon">
 </a>
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
- <img src="https://img.shields.io/badge/Built%20With-CSS-1471b6?style=for-the-badge&logo=CSS3" alt="Issues icon">
+ <img src="https://img.shields.io/badge/-CSS-1471b6?style=for-the-badge&logo=CSS3&logoColor=ffffff" alt="Css icon">
 </a>
 <br>
 
@@ -148,20 +149,28 @@ Contributions are what make the open source community such an amazing place to b
 
 👤 **Luciano Ilha Carbonel**
 
-- Github: [@Luciano Ilha](https://github.com/luciano-ilha)
-- Twitter: [@CarbonellIlha](https://twitter.com/CarbonellIlha)
-- Linkedin: [@Luciano Carbonell](https://www.linkedin.com/in/luciano-carbonell/)
+<a href="https://github.com/luciano-ilha">
+ <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff" alt="Github icon">
+</a>
+<br>
+<a href="https://twitter.com/CarbonellIlha">
+ <img src="https://img.shields.io/badge/-Twitter-1da1f1?style=for-the-badge&logo=Twitter&logoColor=ffffff" alt="Twitter icon">
+</a>
+<br>
+<a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
+ <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B65C2" alt="Linkedin icon">
+</a>
 
 
 <!-- CONTACT -->
 ## 📱 Contact
 
-<a href="https://www.linkedin.com/in/luciano-carbonell/?locale=en_US">
- <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0B65C2" alt="Linkedin icon">
+<a href="https://api.whatsapp.com/send?phone=5551991773752">
+ <img src="https://img.shields.io/badge/-WhatsApp-black.svg?style=for-the-badge&logo=WhatsApp&colorB=00a038" alt="Whatsapp icon">
 </a>
 <br>
 <a href="mailto:ilha.dev.br@gmail.com">
- <img src="https://img.shields.io/badge/Send-Email-ffe019?style=for-the-badge&logo=Gmail" alt="Issues icon">
+ <img src="https://img.shields.io/badge/-Gmail-black.svg?style=for-the-badge&logo=Gmail&colorB=ffffff" alt="Email icon">
 </a>
 
 Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.com/luciano-ilha/expense-tracker)
