@@ -58,12 +58,16 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#authors">Authors</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#support">Show your support</a></li>
   </ol>
 </details>
 
 
 <!-- ABOUT THE PROJECT -->
+<div id="about-the-project"></div>
+
 ## 🔎 About The Project
 
 [![Expense Tracker Screen Shot][product-screenshot]]()
@@ -71,6 +75,7 @@
 An app to track all your expenses.
 <br>
 
+<div id="built-with"></div>
 
 ### 💻 Built With
 
@@ -93,10 +98,13 @@ An app to track all your expenses.
 
 
 <!-- GETTING STARTED -->
+<div id="getting-started"></div>
+
 ## ⚙️ Getting Started
 
 To get a local copy up and running follow these simple steps.
 
+<div id="prerequisites"></div>
 
 ### Prerequisites
 
@@ -106,6 +114,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
+<div id="installation"></div>
 
 ### Installation
 
@@ -120,6 +129,8 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
+<div id="usage"></div>
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -128,12 +139,16 @@ _For more examples, please refer to the [Documentation]()_
 
 
 <!-- ROADMAP -->
+<div id="roadmap"></div>
+
 ## Roadmap
 
 See the [open issues](https://github.com/luciano-ilha/expense-tracker/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
+<div id="contributing"></div>
+
 ## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -144,6 +159,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<div id="authors"></div>
 
 ## ✒️ Authors <a name = "author"></a>
 
@@ -163,6 +179,8 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- CONTACT -->
+<div id="contact"></div>
+
 ## 📱 Contact
 
 <a href="https://api.whatsapp.com/send?phone=5551991773752">
@@ -175,6 +193,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.com/luciano-ilha/expense-tracker)
 
+<div id="support"></div>
 
 ## 💪🏼 Show your support:
 
