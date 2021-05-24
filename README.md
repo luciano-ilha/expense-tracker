@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://github.com/luciano-ilha/expense-tracker">
+ <a href="https://beesmart-expense-tracker.netlify.app/">
   <img src="https://img.shields.io/badge/See-live-brightgreen?style=for-the-badge" alt="See live icon">
  </a>
  <a href="https://github.com/luciano-ilha/expense-tracker/issues">
