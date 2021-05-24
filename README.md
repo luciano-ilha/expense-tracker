@@ -37,7 +37,6 @@
 </p>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">🗒️ Table of Contents</h2></summary>
@@ -68,7 +67,8 @@
 
 [![Expense Tracker Screen Shot][product-screenshot]]()
 
-An app to track all your expenses.<br>
+An app to track all your expenses.
+<br>
 
 
 ### 💻 Built With
@@ -88,6 +88,7 @@ An app to track all your expenses.<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
  <img src="https://img.shields.io/badge/Built%20With-CSS-1471b6?style=for-the-badge&logo=CSS3" alt="Issues icon">
 </a>
+<br>
 
 
 <!-- GETTING STARTED -->
@@ -132,7 +133,7 @@ See the [open issues](https://github.com/luciano-ilha/expense-tracker/issues) fo
 
 
 <!-- CONTRIBUTING -->
-## ✍🏼 Contributing
+## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -141,6 +142,15 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+
+## ✒️ Authors <a name = "author"></a>
+
+👤 **Luciano Ilha Carbonel**
+
+- Github: [@Luciano Ilha](https://github.com/luciano-ilha)
+- Twitter: [@CarbonellIlha](https://twitter.com/CarbonellIlha)
+- Linkedin: [@Luciano Carbonell](https://www.linkedin.com/in/luciano-carbonell/)
 
 
 <!-- CONTACT -->
@@ -155,3 +165,8 @@ Contributions are what make the open source community such an amazing place to b
 </a>
 
 Project Link: [https://github.com/luciano-ilha/expense-tracker](https://github.com/luciano-ilha/expense-tracker)
+
+
+## 💪🏼 Show your support:
+
+Give a ⭐️ if you like this project!
