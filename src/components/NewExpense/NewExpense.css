@@ -13,7 +13,7 @@
   font: inherit;
   cursor: pointer;
   padding: 1rem 2rem;
-  border: 1px solid #ffe600;
+  border: 2px solid #ffe600;
   background-color: #006208;
   color: white;
   border-radius: 12px;
@@ -22,8 +22,8 @@
 
 .new-expense button:hover,
 .new-expense button:active {
-  background-color: #990000;
-  border-color: #990000;
+  border: 2px solid black;
+  background-color: #fb0000;
 }
 
 .new-expense button.alternative {
@@ -34,5 +34,5 @@
 
 .new-expense button.alternative:hover,
 .new-expense button.alternative:active {
-  background-color: #d44646;
+  background-color: #fb0000;
 }
