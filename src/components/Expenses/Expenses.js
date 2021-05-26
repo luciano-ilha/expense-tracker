@@ -5,8 +5,8 @@ import ExpenseItem from "./ExpenseItem";
 import ExpensesFilter from "./ExpensesFilter";
 
 const Expenses = (props) => {
-  const [enteredTitle, setEnteredFilterYear] = useState("");
-  console.log(enteredTitle);
+  const [filteredYear, setEnteredFilterYear] = useState("2020");
+  console.log(filteredYear);
 
   const ChosenFilterHandler = (enteredFilterYear) => {
     setEnteredFilterYear(enteredFilterYear);
