@@ -10,13 +10,12 @@ const Expenses = (props) => {
 
   const ChosenFilterHandler = (enteredFilterYear) => {
     setEnteredFilterYear(enteredFilterYear);
-    console.log(enteredFilterYear);
   };
 
   return (
-    <Card className="expenses">
-      <ExpensesFilter onChosenFilter={ChosenFilterHandler} />
+    <div>
       <Card className="expenses">
+        <ExpensesFilter onChosenFilter={ChosenFilterHandler} />
         <ExpenseItem
           title={props.items[0].title}
           amount={props.items[0].amount}
@@ -38,7 +37,7 @@ const Expenses = (props) => {
           date={props.items[3].date}
         />
       </Card>
-    </Card>
+    </div>
   );
 };
 
