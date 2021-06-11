@@ -30,7 +30,7 @@ const DUMMY_EXPENSES = [
 ];
 
 const App = () => {
-  const [prevExpenses, setExpenses] = useState(DUMMY_EXPENSES);
+  const [expenses, setExpenses] = useState(DUMMY_EXPENSES);
 
   // Update a state when its based on older snapshot of the same state.
   const addExpenseHandler = (expense) => {
@@ -42,7 +42,7 @@ const App = () => {
   return (
     <div>
       <NewExpense onAddExpense={addExpenseHandler} />
-      <Expenses items={prevExpenses} />
+      <Expenses items={expenses} />
     </div>
   );
 };
