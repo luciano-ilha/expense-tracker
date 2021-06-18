@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="./src/images/expense-tracker-scshot.png" alt="Screenshot" height="250" width="350">
+    <img src="./src/images/expense-tracker-scshot.png" alt="Screenshot">
   </a>
 
   <h1 align="center">Expense Tracker</h1>
@@ -68,8 +68,6 @@
 <div id="about-the-project"></div>
 
 ## 🔎 About The Project
-
-[![Expense Tracker Screen Shot][product-screenshot]]()
 
 An app to track all your expenses.
 
