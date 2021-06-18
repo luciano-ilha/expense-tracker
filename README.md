@@ -28,11 +28,11 @@
     <a href="https://github.com/luciano-ilha/expense-tracker"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/luciano-ilha/expense-tracker">View Demo</a>
+    <a href="https://beesmart-expense-tracker.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/luciano-ilha/expense-tracker/issues">Report Bug</a>
     ·
-    <a href="https://github.com/luciano-ilha/expense-tracker/issues">Request Feature</a>
+    <a href="https://github.com/luciano-ilha/expense-tracker/pulls">Request Feature</a>
   </p>
 </p>
 
